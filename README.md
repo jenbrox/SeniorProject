@@ -1,3 +1,16 @@
+# Project ideas for HR Analytics Dataset
+- Attrition Prediction
+   - Predict whether an employee will leave the company.
+     - Binary classification problem
+     - Try different algorithms like logistic regression, random forest, gradient boosting, or neural networks to see which one performs the best
+- Salary Prediction
+   - Predict an employee's salary based on their job role, education level, performance ratings, and other relevant features.
+     - This can be used to ensure fair pay and to plan salary budgets
+     - Regression Model
+
+
+
+___
 # Potential Senior Project Datasets
 
 **Preview notebooks shown here:**
